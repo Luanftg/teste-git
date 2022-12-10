@@ -22,7 +22,8 @@
         {
             "bandeira": {
                 "nome": "PicPay",
-                "imagem": "https://play-lh.googleusercontent.com/pTvc9kCumx_24eJDwGUpvcBwljcIBkrsL3qHwhBW2NalMQ-XxTtHRV9YAJanBxkV0Rw"
+                "imagem": "https://play-lh.googleusercontent.com/pTvc9kCumx_24eJDwGUpvcBwljcIBkrsL3qHwhBW2NalMQ-XxTtHRV9YAJanBxkV0Rw",
+                "balance": 1200.00
             },
             "criadoEm": "20/10/2020",
             "listaDeMovimentacao": [{
